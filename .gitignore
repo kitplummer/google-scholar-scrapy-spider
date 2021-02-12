@@ -1,0 +1,6 @@
+.scrapy/
+scholar/__pycache__/pipelines.cpython-37.pyc
+scholar/__pycache__/pipelines.cpython-38.pyc
+scholar/spiders/__pycache__/scholar.cpython-38.pyc
+test.csv
+**/**/__pycache__
